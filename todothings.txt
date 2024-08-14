@@ -1,0 +1,14 @@
+design database
+do the primary key thing 
+do the email verification thing
+understand layout meaning designing frontend
+complete the start from where left functionality
+take inputs and store in the database
+
+
+when user enters cnic if he has already made account he will be taken to his 
+application tracking page
+if not registered first then resume normally.
+youll have to delete the data entered on the specific page if user presses the go back button
+
+the yes no questions related to the usa are stored in database.

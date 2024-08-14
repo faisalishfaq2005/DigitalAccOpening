@@ -1,0 +1,35 @@
+cnic
+phone number
+authentication on number
+gmail
+authentication on gmail
+nationality
+mother name
+purpose of account
+accupation
+source of funds
+details of fund provider
+type of banking preference(islamic or conventional)
+type of account conventional or savings
+source of income(agriculture, busoness, etc)
+terms and conditions
+required documents submission based on sources update to user
+
+Personal Information
+1.(name , father name , dob, place of birth, cnic data of issuence,cnic date of expiry,gender , marital status, rekegion)
+
+2.next of kin information (relations name, cnic,number,relation)
+3.city and branch preference
+4. debit card preference
+5.type of debit card and name on the debot card
+6.Financial Information(expected monthly debit turnover,expected monthly credit turnover,expected mode of transaction,monthly income in pkr,)
+7.address information
+8. upload documents
+cheaklist to conform all entered information
+
+
+Work to do:
+1. design a database that is flexible for example you have to store different dicuments or data of different user according to their circumstances.
+2. find out how to send data accross pages in asp.net core web app. 
+3. find how to move to next page by pressing a button . (Done)
+4. email authentication
